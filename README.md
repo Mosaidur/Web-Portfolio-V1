@@ -51,8 +51,3 @@ This is a professional portfolio website for **Mosaidur Rahman Asif**, a Flutter
 
 ---
 
-## Installation and Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Mosaidur/portfolio-website.git
